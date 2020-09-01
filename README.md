@@ -1,5 +1,4 @@
-# rattrapage
-Rattrapage M1 OGL
+# Rattrapage M1 OGL
 
 Vous devez créer votre propre dépot privé GitHub et inviter _fabricehuet_. Chaque point à traiter devra
 faire l'objet d'un commit avec une ligne de log adaptée. 
